@@ -1,5 +1,3 @@
-Here’s a line-by-line version of the **Google Maps Clone** description using Android Studio (Java), with emojis to make it engaging for users:
-
 ---
 
 ### 🗺️ **Google Maps Clone Using Android Studio (Java)**  

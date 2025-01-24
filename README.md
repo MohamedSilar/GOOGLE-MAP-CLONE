@@ -1,5 +1,3 @@
----
-
 ### 🗺️ **Google Maps Clone Using Android Studio (Java)**  
 A feature-rich **Google Maps Clone** application built using **Android Studio** and **Java**, offering map functionalities to users with a sleek design.
 

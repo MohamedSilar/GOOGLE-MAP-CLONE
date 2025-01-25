@@ -68,6 +68,5 @@ A feature-rich **Google Maps Clone** application built using **Android Studio** 
 For any questions or suggestions, feel free to reach out:
 
 📧 Email: mohamedsilar26@gmail.com
-🔗 LinkedIn: Mohamed Silar
 
 **Build and experience the power of mapping, your way!** 😊
